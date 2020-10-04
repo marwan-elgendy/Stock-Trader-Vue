@@ -1,4 +1,13 @@
 # stock-project
+## Overview
+This is a simple Vue.js application that mimics stock trading apps using firebase.
+Here is what i used in this project:
+* Vue Components
+* Vue Router 
+* Vue transition
+* Vuex (state management)
+* Vue Filters
+* Vue Directives
 
 ## Project setup
 ```
