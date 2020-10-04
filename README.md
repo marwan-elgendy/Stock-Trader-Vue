@@ -1,4 +1,4 @@
-# stock-project
+# Stock Trader Project
 ## Overview
 This is a simple Vue.js application that mimics stock trading apps using firebase.
 Here is what i used in this project:
